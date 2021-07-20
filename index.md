@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Yugesh Pandey
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+Hello everyone, what's going on?
 
